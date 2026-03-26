@@ -45,7 +45,7 @@ I am a passionate Frontend Developer with strong skills in building modern, resp
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github.com/durgashankard)
 
 ---
 
@@ -53,7 +53,7 @@ I am a passionate Frontend Developer with strong skills in building modern, resp
 
 - 📧 Email: ddangi8103@gmail.com  
 - 📱 Phone: 8103292328  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
+- 💼 LinkedIn: https://www.linkedin.com/in/durgashankar-dangi-631b08259/  
 - 🌐 Portfolio: https://your-portfolio-link.com  
 
 ---
