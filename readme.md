@@ -52,7 +52,7 @@ I am a passionate Frontend Developer with strong skills in building modern, resp
 ## 📫 Contact Me
 
 - 📧 Email: ddangi8103@gmail.com  
-- 📱 Phone: 8103292328  
+- 📱 Phone: +91........  
 - 💼 LinkedIn: https://www.linkedin.com/in/durgashankar-dangi-631b08259/  
 - 🌐 Portfolio: https://your-portfolio-link.com  
 
